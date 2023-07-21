@@ -1,0 +1,9 @@
+<view class="demo-box">
+    <comp image-class="test-img-class" img="smail" theme="{{isDark?'dark':'light'}}"></comp>
+    <comp image-class="test-img-class" img="wechat" theme="{{isDark?'dark':'light'}}"></comp>
+
+    <comp image-class="test-img-class" img="{{smail}}" theme="{{isDark?'dark':'light'}}"></comp>
+    <comp image-class="test-img-class" img="{{wechat}}" theme="{{isDark?'dark':'light'}}"></comp>
+
+    <button bind:tap="toggleDark">改变主题</button>
+</view>

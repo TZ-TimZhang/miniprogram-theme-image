@@ -1,0 +1,10 @@
+.demo-box {
+    display: flex;
+    flex-direction: column;
+    background: #999;
+}
+
+.test-img-class {
+    width: 50rpx;
+    height: 50rpx;
+}

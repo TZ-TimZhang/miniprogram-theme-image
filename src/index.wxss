@@ -1,0 +1,4 @@
+.theme-img {
+  line-height: 1;
+  display: flex;
+}
