@@ -17,7 +17,7 @@
 ```json
 {
   "usingComponents": {
-    "theme-image": "path/to/@vant/weapp/dist/button/index"
+    "theme-image": "path/to/miniprogram-theme-image/index"
   }
 }
 ```
